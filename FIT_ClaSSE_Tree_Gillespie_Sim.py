@@ -23,7 +23,7 @@ Outputs:
 - Time-stamped tree matrix
 - Observed lineage states
 - Newick formatted tree
-- Ancestor state transitions
+- Ancestor state
 
 Author:
 -------
