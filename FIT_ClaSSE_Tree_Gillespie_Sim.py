@@ -1,5 +1,5 @@
 """
-Birth-Death Cladogenetic Tree Simulator (Forward-in-Time)
+Birth-Death Cladogenetic Tree Simulation (Forward-in-Time)
 =========================================================
 
 Started     : April 10, 2025  
