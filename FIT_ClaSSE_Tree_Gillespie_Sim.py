@@ -27,7 +27,7 @@ Outputs:
 
 Author:
 -------
-Erwan H., MSc student in Rennes University (Rennes, France)
+Erwan H., MSc student, Rennes University (Rennes, France)
 """
 
 # ========== Libraries ==========
