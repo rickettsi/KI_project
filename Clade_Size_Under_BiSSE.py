@@ -145,7 +145,7 @@ for i in range(3):
     ##############
     # Save Pm    #
     ##############
-    file_name = f"/home/r1/Documents/Master/M1/STAGE/DATA/f0_{f1}&f1_{f2}.csv"
+    file_name = f"/home/user/f0_{f1}&f1_{f2}.csv"
     df = pd.DataFrame(Pm)
     df.to_csv(file_name, sep='\t')
 
